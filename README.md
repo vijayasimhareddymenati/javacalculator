@@ -1,2 +1,2 @@
 # javacalculator
-developing an interface using java for developing  a calculator
+developing an interface using java for calculations
